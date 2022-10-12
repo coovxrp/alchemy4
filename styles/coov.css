@@ -1,0 +1,7 @@
+.btn {
+  float: left;
+  clear: both;
+  background: url(styles/logos/etherscan-logo.svg) no-repeat;
+  padding: 0 0 0 10px;
+  margin: 5px 0;
+}
